@@ -10,3 +10,12 @@
 5. The calculator should display the correct value for each button pressed in the browser
 6. when the equals button is pressed you should display the result of the last entered calculation
 7. the program should use functions, loops, DOM selectors and DOM events
+
+### Deliverables
+6/7 calculation result not currently displayed
+
+### What went well
+Using dom selectors to add basic functions to buttons
+
+### Challenges
+Using 2 different instances of data generated from the same button class in different parts of the same equation
