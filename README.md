@@ -12,10 +12,10 @@
 7. the program should use functions, loops, DOM selectors and DOM events
 
 ### Deliverables
-6/7 calculation result not currently displayed
+7/7 all deliverables met
 
 ### What went well
 Using dom selectors to add basic functions to buttons
 
 ### Challenges
-Using 2 different instances of data generated from the same button class in different parts of the same equation
+Setting global variables to trigger 'if' statements
